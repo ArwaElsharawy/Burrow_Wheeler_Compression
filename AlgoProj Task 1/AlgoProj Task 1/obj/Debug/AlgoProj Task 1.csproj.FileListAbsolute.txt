@@ -1,0 +1,14 @@
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.exe.config
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.exe
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.pdb
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.csproj.AssemblyReference.cache
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.csproj.CoreCompileInputs.cache
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.exe
+D:\FCIS\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.pdb
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.exe.config
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.exe
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\Debug\AlgoProj Task 1.pdb
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.csproj.AssemblyReference.cache
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.csproj.CoreCompileInputs.cache
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.exe
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\Debug\AlgoProj Task 1.pdb

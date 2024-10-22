@@ -1,0 +1,6 @@
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\x64\Debug\AlgoProj Task 1.exe.config
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\x64\Debug\AlgoProj Task 1.exe
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\bin\x64\Debug\AlgoProj Task 1.pdb
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\x64\Debug\AlgoProj Task 1.csproj.CoreCompileInputs.cache
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\x64\Debug\AlgoProj Task 1.exe
+D:\Semster 6\Algo\Project\AlgoProj Task 1\AlgoProj Task 1\obj\x64\Debug\AlgoProj Task 1.pdb
